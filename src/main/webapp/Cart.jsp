@@ -107,6 +107,9 @@ body {
 	text-align: center;
 }
 </style>
+<script>
+	console.log("Hello World!!");
+</script>
 </head>
 <body>
 	<div class="cart-container">
