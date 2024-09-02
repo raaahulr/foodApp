@@ -74,7 +74,7 @@
   <h1 class="header_title">Tap Foods</h1>
 
   <div class="header_btn">
-    <a href="login.jsp"><button class="btn">Login</button></a>
+    <a href="login.jsp"><button class="btn">LOGIN</button></a>
     <a href="signUp.jsp"> <button class="btn">SignUp</button></a> 
   </div>
 </div>
